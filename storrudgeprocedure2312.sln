@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "storrudgeprocedure2312", "storrudgeprocedure2312\storrudgeprocedure2312.csproj", "{D7BD54F7-EF83-48BD-A197-17634718D455}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7BD54F7-EF83-48BD-A197-17634718D455}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7BD54F7-EF83-48BD-A197-17634718D455}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7BD54F7-EF83-48BD-A197-17634718D455}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7BD54F7-EF83-48BD-A197-17634718D455}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA56DB83-44F2-47EF-B751-6EE40DDF3207}
+	EndGlobalSection
+EndGlobal
